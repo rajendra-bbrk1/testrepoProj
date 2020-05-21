@@ -12,7 +12,7 @@ import pfpack.util.Constants;
 
 //This is a comment for loginTest
 
-//This is a second cooment for loginTest
+
 public class loginTest extends BaseTest {
 	
 	@Test
